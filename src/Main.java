@@ -8,7 +8,7 @@ public class Main {
 
     public static int meanTotalWasteKgPerCapitaPerYear(int[] totalWasteKgPerCapitaPerYear)
     {
-        double sum = 0.0;
+        double sum=0.0;
         for(int i:totalWasteKgPerCapitaPerYear){
             sum+=i;
         }
