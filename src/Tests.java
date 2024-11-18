@@ -57,6 +57,9 @@ public class Tests {
         assertEquals(86, Main.meanHouseholdEstimateKgPerCapitaPerYear(householdEstimatesKgPerCapitaPerYear));
     }
 
+    /**
+     *
+     */
     @Test
     public void householdEstimateTonnesPerYear()
     {
